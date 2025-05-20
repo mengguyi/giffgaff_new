@@ -1,0 +1,18 @@
+application_url = "https://www.giffgaff.com/orders/affiliate/i588_1704766073043"
+wait_time = 100
+domain = "mengguyi.com"
+phone = "17765963257"
+first_name = "GUYI"
+last_name = "MENG"
+address = "106, 2 Building, Wanke Golden Yuecheng Phase 2"
+city = "Shapingba"
+state = "Chongqing"
+postcode = "400030"
+
+browser = "edge"         # 可选: chrome, edge, firefox
+webdriver_url = "http://localhost:9515" # WebDriver 地址和端口
+
+args = [
+    "--disable-gpu",
+    "--user-data-dir=C:/Users/GuyiMeng/test"
+]
